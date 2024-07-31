@@ -55,7 +55,7 @@ ORDER BY
     
 LIMIT 10
 ```
-![Top_Paying_Roles](assets\Top_Data_Analyst_role.png)
+![Top_Paying_Roles](assets\Top_Data_Analyst_role.png).
 This graph visualizing the salary for the top 10 data analysts.
 ### 2.Top Paying Job Skills
 This query highlights the high paying skills in the field Data Analyst.
@@ -95,7 +95,7 @@ INNER JOIN skills_dim ON skills_job_dim.skill_id = skills_dim.skill_id
 ORDER BY
         salary_year_avg DESC
 ```
-![Top Paying Skills for Data Analyst](assets\top_skills.png)
+![Top Paying Skills for Data Analyst](assets\top_skills.png).
 This graph visualizing the top skills for data analyst.
 ### 3.Top Demanded Skills.
 This query highlight the top 5 most demanded skills for data analyst.
