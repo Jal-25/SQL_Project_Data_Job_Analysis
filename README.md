@@ -55,7 +55,7 @@ ORDER BY
     
 LIMIT 10
 ```
-![Top Paying Roles](assets\TopDataAnalystrole.png)
+![TopDataAnalystrole](https://github.com/user-attachments/assets/e5609fc6-ef64-4ad8-98f4-2de8b6ae3356)
 This graph visualizing the salary for the top 10 data analysts.
 ### 2.Top Paying Job Skills
 This query highlights the high paying skills in the field Data Analyst.
