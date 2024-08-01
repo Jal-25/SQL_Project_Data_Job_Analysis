@@ -95,7 +95,8 @@ INNER JOIN skills_dim ON skills_job_dim.skill_id = skills_dim.skill_id
 ORDER BY
         salary_year_avg DESC
 ```
-![Top Paying Skills for Data Analyst](assets\topskills.png)
+![topskills](https://github.com/user-attachments/assets/5e27aa5e-3869-4fde-aff3-f78a1116225b)
+
 This graph visualizing the top skills for data analyst.
 ### 3.Top Demanded Skills.
 This query highlight the top 5 most demanded skills for data analyst.
